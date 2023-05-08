@@ -39,7 +39,7 @@ TThis project uses a Deep Convolutional Generative Adversarial Network (DCGAN) t
 Gain in-demand skills for an entry-level job in data analytics with Google's professional certificate, designed to prepare you for a career in the high-growth field of data analytics.
 
 * [IBM Data Science from Coursera And IBM](https://coursera.org/share/416c64dcabbce3375f12fdafa214477f)
-* 
+
 This Professional Certificate from IBM on Coursera is designed to help anyone interested in pursuing a career in data science or machine learning develop the skills and tools necessary to succeed in the field.
 
 * [Machine Learning Specialization from Coursera](https://www.coursera.org/account/accomplishments/specialization/MJ32PJ4WMS4R?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
