@@ -53,4 +53,4 @@ The Deep Learning Specialization is a foundational program that will help unders
 
 
 # 📫 Let's connect
-I'm always looking to connect with other data scientists and professionals in the field. You can find me on [LinkedIn]([https://www.linkedin.com/in/mahdinavaei/](https://www.linkedin.com/in/amir-hossein-zinati/)) or reach out to me via [email](mailto:amirzinati765@gmail.com).
+I'm always looking to connect with other data scientists and professionals in the field. You can find me on [LinkedIn](https://www.linkedin.com/in/amir-hossein-zinati/) or reach out to me via [email](mailto:amirzinati765@gmail.com).
